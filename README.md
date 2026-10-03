@@ -1,10 +1,14 @@
 # URBANiA
 
-![URBANiA logo](assets/urbania-logo.jpg)
+<p align="center">
+  <img src="assets/urbania-logo.jpg" alt="URBANiA logo" width="112" />
+</p>
 
 URBANiA is an interactive civic-reporting prototype that turns fragmented reports from residents into structured information that municipalities can review and prioritize.
 
 [Open the live app](https://collivignarellioffice-byte.github.io/urbania-civic-app/) · [Read the product presentation](https://urbania-agg.vercel.app/) · [Visit Martina's portfolio](https://martinacollivignarelli.com/)
+
+![URBANiA web prototype running in its desktop phone frame](docs/urbania-web-demo.png)
 
 ## What the prototype demonstrates
 
