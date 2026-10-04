@@ -6,7 +6,7 @@
 
 URBANiA is an interactive civic-reporting prototype that turns fragmented reports from residents into structured information that municipalities can review and prioritize.
 
-[Open the live app](https://collivignarellioffice-byte.github.io/urbania-civic-app/) · [Read the product presentation](https://urbania-agg.vercel.app/) · [Visit Martina's portfolio](https://martinacollivignarelli.com/)
+[Open the live app](https://collivignarellioffice-byte.github.io/urbania-civic-app/) · [Read the product presentation](https://collivignarellioffice-byte.github.io/urbania-civic-app/presentation/) · [Visit Martina's portfolio](https://martinacollivignarelli.com/)
 
 ![URBANiA web prototype running in its desktop phone frame](docs/urbania-web-demo.png)
 
@@ -22,7 +22,7 @@ URBANiA is an interactive civic-reporting prototype that turns fragmented report
 
 ## Product context
 
-The project began as a university product concept about civic participation. The presentation explains the problem, service model, public-administration dashboard, business model and infrastructure. This repository contains the working citizen-facing MVP.
+The project began as a university product concept about civic participation. The presentation explains the problem, service model, public-administration dashboard, business model and infrastructure. This repository contains both the working citizen-facing MVP and the presentation source.
 
 The current prototype uses synthetic seed data and stores changes only in the current browser session. Priority scores and civic summaries are generated through deterministic rules visible in the source code; no machine-learning model or LLM is used in this version.
 
